@@ -1,3 +1,1 @@
-# git-
-1st commit;
-2nd commit;
+2020年7月25日 提交关于git说明书1.0版本
